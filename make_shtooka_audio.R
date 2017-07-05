@@ -1,7 +1,7 @@
 # This program assumes you have downloaded and untarred the following Shtooka audio collections:
-# 1) Shtooka "Base Audio Libre De Mots Chinois (Wei Gao and Vion Nicolas)".  CC-BY 2.0.  http://download.shtooka.net/cmn-balm-hsk1_flac.tar
-# 2) Shtooka "Collection Audio Libre De Mots Chinois (Yue Tan)".  CC-BY 3.0.  http://download.shtooka.net/cmn-caen-tan_flac.tar
-# 3) Shtooka "Base Audio Libre De Mots Chinois (Congcong)".  CC-BY 3.0.  http://download.shtooka.net/cmn-balm-congcong_flac.tar
+# 1) Shtooka "Base Audio Libre De Mots Chinois (Wei Gao and Vion Nicolas)".  CC BY 2.0 FR.  http://download.shtooka.net/cmn-balm-hsk1_flac.tar
+# 2) Shtooka "Collection Audio Libre De Mots Chinois (Yue Tan)".  CC BY-SA 3.0 US.  http://download.shtooka.net/cmn-caen-tan_flac.tar
+# 3) Shtooka "Base Audio Libre De Mots Chinois (Congcong)".  CC BY 3.0 US.  http://download.shtooka.net/cmn-balm-congcong_flac.tar
 
 suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("stringr"))

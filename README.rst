@@ -29,7 +29,7 @@ Some sources of Creative Commons licensed Mandarin audio files:
 #) chinese-lessons.com "Mandarin voice soundset".  CC BY-NC-ND 3.0 US.  http://www.chinese-lessons.com/download.htm
 #) Shtooka "Base Audio Libre De Mots Chinois (Congcong)".  CC-BY 3.0 US.  http://download.shtooka.net/cmn-balm-congcong_flac.tar
 #) Shtooka "Base Audio Libre De Mots Chinois (Wei Gao and Vion Nicolas)".  CC-BY 2.0 FR.  http://download.shtooka.net/cmn-balm-hsk1_flac.tar
-#) Shtooka "Collection Audio Libre De Mots Chinois (Yue Tan)".  CC-BY 3.0 US.  http://download.shtooka.net/cmn-caen-tan_flac.tar
+#) Shtooka "Collection Audio Libre De Mots Chinois (Yue Tan)".  CC-BY-SA 3.0 US.  http://download.shtooka.net/cmn-caen-tan_flac.tar
 #) Sinosplice (John Pasden) "Tone Pair drills".  CC BY-NC-SA 2.5.  http://www.sinosplice.com/learn-chinese/tone-pair-drills
 #) Forvo.  CC BY-NC-SA 3.0.  https://forvo.com/
 
