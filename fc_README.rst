@@ -12,7 +12,7 @@ I have assembled a "Collective Work" of Creative Commons licensed Mandarin audio
 Base Audo Libre De Mots Chinois (Shtooka Balm HSK1)
 ---------------------------------------------------
 
-Files in the `shtooka_balm_hsk1`` directory are from "Base Audio Libre De Mots Chinois" Copyright 2006 Wei Gao and Vion Nicolas available under a `CC BY 2.0 FR license <https://creativecommons.org/licenses/by/2.0/fr/legalcode>`_.  They are originally downloaded from http://shtooka.net/download.php (http://download.shtooka.net/chi-balm-hsk1_flac.tar).  I've extracted just the flac audio files into this directory.  The audio recording filenames have been renamed with the relevant (ascii) pinyin and characters of the recording.
+Files in the ``shtooka_balm_hsk1`` directory are from "Base Audio Libre De Mots Chinois" Copyright 2006 Wei Gao and Vion Nicolas available under a `CC BY 2.0 FR license <https://creativecommons.org/licenses/by/2.0/fr/legalcode>`_.  They are originally downloaded from http://shtooka.net/download.php (http://download.shtooka.net/chi-balm-hsk1_flac.tar).  I've extracted just the flac audio files into this directory.  The audio recording filenames have been renamed with the relevant (ascii) pinyin and characters of the recording.
 
 Base Audo Libre De Mots Chinois (Shtooka Caen Tan)
 --------------------------------------------------

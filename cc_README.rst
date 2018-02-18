@@ -12,7 +12,7 @@ I have assembled a "Collective Work" of Creative Commons licensed Mandarin audio
 Base Audo Libre De Mots Chinois (Shtooka Balm HSK1)
 ---------------------------------------------------
 
-Files in the `shtooka_balm_hsk1`` directory are from "Base Audio Libre De Mots Chinois" Copyright 2006 Wei Gao and Vion Nicolas available under a `CC BY 2.0 FR license <https://creativecommons.org/licenses/by/2.0/fr/legalcode>`_.  They are originally downloaded from http://shtooka.net/download.php (http://download.shtooka.net/chi-balm-hsk1_flac.tar).  I've extracted just the flac audio files into this directory.  The audio recording filenames have been renamed with the relevant (ascii) pinyin and characters of the recording.
+Files in the ``shtooka_balm_hsk1`` directory are from "Base Audio Libre De Mots Chinois" Copyright 2006 Wei Gao and Vion Nicolas available under a `CC BY 2.0 FR license <https://creativecommons.org/licenses/by/2.0/fr/legalcode>`_.  They are originally downloaded from http://shtooka.net/download.php (http://download.shtooka.net/chi-balm-hsk1_flac.tar).  I've extracted just the flac audio files into this directory.  The audio recording filenames have been renamed with the relevant (ascii) pinyin and characters of the recording.
 
 Base Audo Libre De Mots Chinois (Shtooka Caen Tan)
 --------------------------------------------------
@@ -32,7 +32,7 @@ Files in the ``chinese_lessons`` directory are from "Mandarin Sounds MP3" by `Ch
 Forvo
 -----
 
-Files ending in ``forvo`` directory are from Forvo pronounced by the Forvo user at the end of each filename.  They are released by Forvo under a `CC BY-NC-SA 3.0 license <https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode>`_.  They were all manually downloaded from https://forvo.com and have been named in the format ``pinyin_hanzi_pronouncer.mp3``.  The file ``eh3_誒_daudau.mp3`` had additional readings of the character 誒 manually deleted from the recording and the file ``n3_嗯_jaspon.mp3`` had an initial breath manually deleted from the recording.
+Files ending in ``forvo`` directory are from Forvo pronounced by the Forvo user at the end of each filename.  They are released by Forvo under a `CC BY-NC-SA 3.0 license <https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode>`_.  They were all manually downloaded from https://forvo.com and have been named in the format ``pinyin_hanzi_pronouncer.mp3``.  The files ``eh3_誒_daudau.mp3`` and ``chuai1_揣_Isabella_huang.mp3`` had additional readings of their respective character manually deleted from the recording and the file ``n3_嗯_jaspon.mp3`` had an initial breath manually deleted from the recording.
 
 Sinosplice Mandarin Chinese Tone Pair Drills
 --------------------------------------------

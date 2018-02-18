@@ -10,12 +10,12 @@ This is a set of helper scripts designed to convert various Mandarin audio sourc
 
 If you are looking for a "Collective Work" of freely available Mandarin audio already in this format for personal and non-commercial use you may use the following commands to download an assembled "Collective Work" of Creative Commons licensed Mandarin audio already in the desired format.  It contains Mandarin audio from chinese-lessons.com, forvo.com, sinosplice.com, and shtooka.net.  See ``cc_README.rst`` for more info.::
 
-    bash$ wget https://u14129277.dl.dropboxusercontent.com/u/14129277/cc_mandarin_audio_pack.zip 
+    bash$ wget https://www.dropbox.com/s/0f01hiopxs6gixz/cc_mandarin_audio_pack.zip?dl=0
     bash$ unzip cc_mandarin_audio_pack.zip
 
 As an alternative there is also a subset of the above of just the "Free Cultural Works" that can be used for commercial use.  It contains Mandarin audio from shtooka.net.  See ``fc_README.rst`` for more info.::
 
-    bash$ wget https://u14129277.dl.dropboxusercontent.com/u/14129277/fc_mandarin_audio_pack.zip 
+    bash$ wget https://www.dropbox.com/s/bh3ctzsgwbagbw0/fc_mandarin_audio_pack.zip?dl=0
     bash$ unzip fc_mandarin_audio_pack.zip
 
 Audio sources
