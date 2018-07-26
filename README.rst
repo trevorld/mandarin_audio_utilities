@@ -1,12 +1,16 @@
 Mandarin Audio Utilities
 ------------------------
 
+.. image:: http://www.repostatus.org/badges/latest/inactive.svg
+   :alt: Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.
+   :target: http://www.repostatus.org/#inactive
+
 This is a set of helper scripts designed to convert various Mandarin audio sources to the format ``source_folder/pin1yin1_extra_info.mp3``.   If the original file isn't an ``.mp3`` it will preserve the audio format (i.e. ``.flac``).  Standard pinyin is modified in these filenames in the following ways:
 
-   #) Instead of diacritics we use numbers at the end of each syllable to denote the tone including using a 5 at the end to mark the neutral tone e.g. shen2me5de5 and not shen2mede.
-   #) For erhua syllables we put the erhua 'r' before the tone number e.g. zher4 not zhe4r5. 
-   #) We try our best to apply any relevant tone sandhi e.g. ni2hao3 and not ni3hao3.
-   #) We replace any pinyin ü with a v and any pinyin ê with an eh
+#) Instead of diacritics we use numbers at the end of each syllable to denote the tone including using a 5 at the end to mark the neutral tone e.g. shen2me5de5 and not shen2mede.
+#) For erhua syllables we put the erhua 'r' before the tone number e.g. zher4 not zhe4r5. 
+#) We try our best to apply any relevant tone sandhi e.g. ni2hao3 and not ni3hao3.
+#) We replace any pinyin ü with a v and any pinyin ê with an eh
 
 If you are looking for a "Collective Work" of freely available Mandarin audio already in this format for personal and non-commercial use you may use the following commands to download an assembled "Collective Work" of Creative Commons licensed Mandarin audio already in the desired format.  It contains Mandarin audio from chinese-lessons.com, forvo.com, sinosplice.com, and shtooka.net.  See ``cc_README.rst`` for more info.::
 
